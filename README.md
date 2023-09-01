@@ -1,7 +1,7 @@
 Marvel App🦸‍♂️
 <hr/>
 Objetivo: Desarrollar una aplicación móvil📱 utilizando React Native que permita a los usuarios explorar🔍 y descubrir información detallada sobre los personajes del universo Marvel🦸‍♂️. La aplicación contará con una interfaz intuitiva y atractiva, presentando funcionalidades como: 
-
+<br/>
 ✅ Búsqueda por nombre
 
 ✅ Informacion de cada personaje
